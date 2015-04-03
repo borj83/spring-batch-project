@@ -1,0 +1,5 @@
+reader:
+    resource: data.csv
+
+writer:
+    resource: data-target.csv

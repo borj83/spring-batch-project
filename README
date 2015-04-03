@@ -1,0 +1,3 @@
+spring-batch-project
+
+Project using Spring Batch and Spring Boot to read data from a flat file to process it and store it into different flat file.
